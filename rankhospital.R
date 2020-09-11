@@ -57,3 +57,4 @@ rankhospital <- function(state, outcome, rank) {
         }
         return(req.hospital)
 }
+
